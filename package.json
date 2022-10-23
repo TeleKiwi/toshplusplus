@@ -1,0 +1,17 @@
+{
+  "name": "toshplusplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/main.js",
+  "scripts": {
+    "build": "tsc src/*.ts",
+    "start": "node out/main.js",
+    "ts-start": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "TeleKiwi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.3"
+  }
+}
