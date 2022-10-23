@@ -4,8 +4,7 @@ A text-based lang that could be a step up from dragging blocks.
 ## FAQS
 
 ### Why name it tosh++?
-Years ago, there was a project called tosh that was a text-based version of Scratch 2. Someone did make a version
-for Scratch 3, but it was never hosted online. Like C++ was to C, tosh++ aims to succeed tosh2 & tosh3.
+Years ago, there was a project called tosh that was a text-based version of Scratch 2. Someone did make a version for Scratch 3, but it was never hosted online. Like C++ was to C, tosh++ aims to succeed tosh2 & tosh3.
 
 ### What are your goals?
 In no particular order;
