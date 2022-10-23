@@ -9,11 +9,17 @@ for Scratch 3, but it was never hosted online. Like C++ was to C, tosh++ aims to
 
 ### What are your goals?
 In no particular order;
+
 [-] Compile to a format that could be simply translated into .sb3 files
+
 [-] Produce a human-readable and simple AST that can be dumped
+
 [-] Have a full type system 
+
 [-] Good error reporting
+
 [-] Support all native Scratch 3 modules 
+
 [-] Add a few bonus features Scratch 3 doesn't have (for loops, macros)
 
 ### How long will this take to finish?
